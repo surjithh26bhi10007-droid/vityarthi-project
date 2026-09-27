@@ -49,7 +49,8 @@ sudo apt install python3 python3-pip git -y
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-Clone this project directly to your local machine:
+Clone this project directly to your local machine(command prompt):
+open command prompt and type
 
 ```bash
 git clone https://github.com/surjithh26bhi10007-droid/vityarthi-project.git
