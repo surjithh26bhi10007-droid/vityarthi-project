@@ -22,14 +22,14 @@ The scope of this project includes:
 - **Developers**: Programmers looking for a clean reference implementation of bidirectional dictionary mapping in Python.
 
  4. High-Level Features
-   **Text-to-Morse Code Encoding**:
+4.1  **Text-to-Morse Code Encoding**:
    - Converts standard text strings into standard dot-and-dash Morse representation.
    - Automatically handles whitespace between words and converts inputs to uppercase for consistent mapping.
-   **Morse Code-to-Text Decoding**:
+4.2  **Morse Code-to-Text Decoding**:
    - Parses space-delimited Morse signals back into standard English letters and numbers.
    - Preserves word separation using double-space conventions.
-   **Interactive Menu Loop**:
+4.3  **Interactive Menu Loop**:
    - User-friendly CLI menu allowing continuous operations without restarting the script.
    - Exit prompt and graceful session termination.
-   **Fast and Lightweight Processing**:
+4.4  **Fast and Lightweight Processing**:
    - Pure Python implementation with zero external dependencies, running efficiently on any platform with Python installed.
