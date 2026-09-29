@@ -61,9 +61,9 @@ cd vityarthi-project
 Launch the application using Python:
 
 ```bash
-python "morse code conventer.py"
+python main.py
 ```
-*(On macOS/Linux, use `python3 "morse code conventer.py"`)*
+*(On macOS/Linux, use `python3`)*
 
 ---
 
