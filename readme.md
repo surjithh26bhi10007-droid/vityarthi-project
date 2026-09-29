@@ -86,7 +86,3 @@ When you run the script, an interactive menu will display:
 3. **Option 3**: Exit the program.
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
